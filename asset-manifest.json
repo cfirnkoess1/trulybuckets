@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.d5e02a4c.js",
-    "static/js/787.b79c045d.chunk.js": "/static/js/787.b79c045d.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.d5e02a4c.js.map": "/static/js/main.d5e02a4c.js.map",
-    "787.b79c045d.chunk.js.map": "/static/js/787.b79c045d.chunk.js.map"
+    "main.css": "/trulybuckets/static/css/main.073c9b0a.css",
+    "main.js": "/trulybuckets/static/js/main.fa53a0d5.js",
+    "static/js/787.b79c045d.chunk.js": "/trulybuckets/static/js/787.b79c045d.chunk.js",
+    "static/media/logo.svg": "/trulybuckets/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/trulybuckets/index.html",
+    "main.073c9b0a.css.map": "/trulybuckets/static/css/main.073c9b0a.css.map",
+    "main.fa53a0d5.js.map": "/trulybuckets/static/js/main.fa53a0d5.js.map",
+    "787.b79c045d.chunk.js.map": "/trulybuckets/static/js/787.b79c045d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d5e02a4c.js"
+    "static/js/main.fa53a0d5.js"
   ]
 }
