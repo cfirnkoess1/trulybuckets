@@ -3,7 +3,6 @@ import {Link} from 'react-router-dom'
 
 
 
-
 function Home() {
     return (
         <>
@@ -11,7 +10,7 @@ function Home() {
     
     <div className="navbar navbar-dark bg-dark box-shadow">
       <div className="container d-flex justify-content-between">
-        <a href="#" className="navbar-brand d-flex align-items-center">
+        <a href="/" className="navbar-brand d-flex align-items-center">
           <svg
             
             width={20}
@@ -52,9 +51,9 @@ function Home() {
           </a>
         </p>
         <p>
-            <a href="/refined" className= "btn btn-info my-2">
+            <Link to="refined" className= "btn btn-info my-2">
                 For the more <i>refined</i> palate
-                </a>
+                </Link>
         </p>
       </div>
     </section>

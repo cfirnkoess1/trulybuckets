@@ -7,7 +7,7 @@ function Refined() {
           
           <div className="navbar navbar-light"  style={{backgroundColor:"#bf9b30" }}>
             <div className="container d-flex justify-content-between">
-              <a href="#" className="navbar-brand d-flex align-items-center">
+              <a href="/" className="navbar-brand d-flex align-items-center">
                 <svg
                   
                   width={20}
@@ -36,7 +36,7 @@ function Refined() {
               <h1 className="jumbotron-heading"><i>Welcome to sophistication</i></h1>
               <p className="lead text-white">
                 As our loving founder matured, so did our content. This page is dedicated to the 
-                more pragmatic side of life, where out community discovered it is not all sunshine and rainbows.
+                more pragmatic side of life, where our community discovered it is not all sunshine and rainbows.
                 Featured at A24 multiple times, the <i>refined</i> content that has been curated on this 
                 page will be sure to blow you away, both visually and emotionally. From tear jerkers to sincere
                 political commentary, the more tasteful side of life resides here.
@@ -220,10 +220,10 @@ function Refined() {
             </div>
           </div>
         </main>
-        <footer className="text-muted">
+        <footer className="text-muted" style={{backgroundColor:"#bf9b30" }}>
           <div className="container">
             <p className="float-right">
-              <a href="#">Back to top</a>
+              <a href="/">Back to top</a>
             </p>
             <p>
               All rights reserved. TrulyBucketsCO
