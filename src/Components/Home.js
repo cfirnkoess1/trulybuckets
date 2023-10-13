@@ -40,7 +40,7 @@ function Home() {
            being exemplary. This is <strong>TRULYBUCKETS</strong>.
         </p>
         <p>
-          <a href="https://www.youtube.com/channel/UCuWHguP068Gq0P8Dz0xv2dg" className="btn btn-primary my-2">
+          <a href="https://www.youtube.com/channel/UCuWHguP068Gq0P8Dz0xv2dg" margin="2px" className="btn btn-primary my-2">
             Take me to greatness
           </a>                     
           <a href="https://www.youtube.com/watch?v=G1IbRujko-A" className="btn btn-secondary my-2">
