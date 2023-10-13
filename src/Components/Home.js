@@ -1,4 +1,8 @@
 import React from 'react'
+import {Link} from 'react-router-dom'
+
+
+
 
 function Home() {
     return (
@@ -43,13 +47,18 @@ function Home() {
           <a href="https://www.youtube.com/channel/UCuWHguP068Gq0P8Dz0xv2dg" margin="2px" className="btn btn-primary my-2">
             Take me to greatness
           </a>                     
-          <a href="https://www.youtube.com/watch?v=G1IbRujko-A" className="btn btn-secondary my-2">
+          <a href="https://www.youtube.com/watch?v=G1IbRujko-A" className="btn btn-secondary my-4">
             Take me to joy
           </a>
         </p>
+        <p>
+            <a href="/refined" className= "btn btn-info my-2">
+                For the more <i>refined</i> palate
+                </a>
+        </p>
       </div>
     </section>
-    <div className="album py-5 bg-light">
+    <div className="album py-5 bg-secondary">
       <div className="container">
         <div className="row">
           <div className="col-md-4">
@@ -57,7 +66,7 @@ function Home() {
               <img
                 className="card-img-top"
                 data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=The Beginning"
-                alt="Card image cap"
+                alt="The Beginning"
               />
               <div className="card-body">
                 <p className="card-text">
@@ -84,7 +93,7 @@ function Home() {
               <img
                 className="card-img-top"
                 data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=The Sequel"
-                alt="Card image cap"
+                alt="The Sequel"
               />
               <div className="card-body">
                 <p className="card-text">
@@ -110,7 +119,7 @@ function Home() {
               <img
                 className="card-img-top"
                 data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=The Trilogy"
-                alt="Card image cap"
+                alt="The Trilogy"
               />
               <div className="card-body">
                 <p className="card-text">
@@ -136,7 +145,7 @@ function Home() {
               <img
                 className="card-img-top"
                 data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=The Spin Off"
-                alt="Card image cap"
+                alt="The Spin Off"
               />
               <div className="card-body">
                 <p className="card-text">
@@ -161,7 +170,7 @@ function Home() {
               <img
                 className="card-img-top"
                 data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=The Fall"
-                alt="Card image cap"
+                alt="The Fall"
               />
               <div className="card-body">
                 <p className="card-text">
@@ -187,7 +196,7 @@ function Home() {
               <img
                 className="card-img-top"
                 data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=The Commentary"
-                alt="Card image cap"
+                alt="The Commentary"
               />
               <div className="card-body">
                 <p className="card-text">
@@ -219,7 +228,7 @@ function Home() {
         <a href="#">Back to top</a>
       </p>
       <p>
-        All rights reserved
+        All rights reserved. TrulyBucketsCO
       </p>
     </div>
   </footer>
