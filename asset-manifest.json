@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/trulybuckets/static/css/main.c46dc5bb.css",
-    "main.js": "/trulybuckets/static/js/main.e6cec3b9.js",
+    "main.js": "/trulybuckets/static/js/main.211670a6.js",
     "static/js/787.b79c045d.chunk.js": "/trulybuckets/static/js/787.b79c045d.chunk.js",
     "index.html": "/trulybuckets/index.html",
     "main.c46dc5bb.css.map": "/trulybuckets/static/css/main.c46dc5bb.css.map",
-    "main.e6cec3b9.js.map": "/trulybuckets/static/js/main.e6cec3b9.js.map",
+    "main.211670a6.js.map": "/trulybuckets/static/js/main.211670a6.js.map",
     "787.b79c045d.chunk.js.map": "/trulybuckets/static/js/787.b79c045d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c46dc5bb.css",
-    "static/js/main.e6cec3b9.js"
+    "static/js/main.211670a6.js"
   ]
 }
